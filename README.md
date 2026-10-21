@@ -3,6 +3,7 @@
 Dashboard interativo em Excel sobre transações imobiliárias com recolhimento de ITBI (Imposto sobre Transmissão de Bens Imóveis) no Recife, em 2026.
 
 ![Dashboard](dashboard.png)
+![diagrama](diagrama.png).
 
 *Print com o filtro Residencial (12.017 transações). O arquivo completo tem 13.852 transações.*
 

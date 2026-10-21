@@ -4,6 +4,7 @@ Dashboard interativo em Excel sobre transações imobiliárias com recolhimento 
 
 ![Dashboard](dashboard.png)
 ![diagrama](diagrama.png).
+![formulas](formulas.png).
 
 *Print com o filtro Residencial (12.017 transações). O arquivo completo tem 13.852 transações.*
 

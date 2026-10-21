@@ -24,3 +24,5 @@ Portal de Dados Abertos da Prefeitura do Recife (Secretaria de Finanças): [ITBI
 - Cada linha é uma **transação**, não um imóvel único
 - O campo usado é o "valor de avaliação" da base. O dicionário de dados não detalha se ele equivale ao preço de venda
 - O ranking considera só bairros com 30 transações ou mais,
+## Licença e uso dos dados
+Os dados originais pertencem à Prefeitura do Recife e são publicados sob a licença [ODbL](http://www.opendefinition.org/licenses/odc-odbl). Este repositório não distribui a base de dados: contém apenas o print do dashboard e esta documentação. Para reproduzir a análise, baixe o arquivo original no link da seção **Fonte dos dados**.
